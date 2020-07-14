@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭I’m currently working on:
-* JumpAndRunShooter
+* JumpRunShooter
 * RollingBall
 
 <!--
