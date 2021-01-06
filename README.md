@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🔭I’m currently working on:
-* [JumpRunShooter](https://github.com/MHWcreations-Co/JumpRunShooter)
-* [Bricks](https://github.com/MHWcreations-Co/Bricks)
+* [JumpRunShooter](https://github.com/MHWcreations/JumpRunShooter)
+* [PiClicker](https://github.com/MHWcreations/Pi-Clicker)
 
 <!--
 **MHWcreations/mhwcreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
